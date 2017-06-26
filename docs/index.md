@@ -10,7 +10,7 @@
 + [Integrating with NodeJS](#integrating-with-nodejs).
 + [Integrating with NodeJS](#some-stuff-for-later).
 
-## [](#setting-up-a-cloud-environment)Setting up a cloud environment [(slides)](docs\slides\001-cloudEnviroment\index.html)
+## [](#setting-up-a-cloud-environment)Setting up a cloud environment [(slides)](slides/001-cloudEnviroment/index.html)
 + Basic setup
   + Creating an Ubuntu instance
   + Setting up port permissions
