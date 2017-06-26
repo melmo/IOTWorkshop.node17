@@ -1,7 +1,15 @@
 # Contents
 
++ [Setting up a cloud environment](#001).
++ [Setting things up locally](#002).
++ [Setting it up on a pi](#003).
++ [The Wemos D1 Mini and the Arduino IDE](#004).
++ [Tying it together](#005).
++ [Integrating with vvvv](#00).
++ [Integrating with NodeJS](#00).
++ [](#00).
 
-# Setting up a cloud environment
+# [](#001)Setting up a cloud environment
 + Basic setup
   + Creating an Ubuntu instance
   + Setting up port permissions
@@ -12,15 +20,15 @@
   + Simple setup
   + Securing it (vital)
 
-# Setting things up locally
+# [](#002)Setting things up locally
 + Setting up a broker locally
   + Mosquitto on windows
   + Mosquitto on good operating systems
 + Setting up node-red locally
 
-# Setting it up on a pi
+# [](#003)Setting it up on a pi
 
-# The Wemos D1 Mini and the Arduino IDE
+# [](#004)The Wemos D1 Mini and the Arduino IDE
 + Setup
   + Adding the board to the board manager
   + Settings
@@ -37,25 +45,25 @@
 
 + MQTT on the esp8266
 
-# Tying it together
+# [](#005)Tying it together
 + Simple UIs in node-red
 + node-red to the esp8266
 + and back
 + building some logic
 
-# Integrating with vvvv
+#[](#006) Integrating with vvvv
 + MQTT in vvvv
 
-# Integrating with NodeJS
+# [](#007)Integrating with NodeJS
 +  
 
+# Some stuff for later
++ Atom & PlatformIO
++ Homie
 
 
 
-
----
-
-# Others
+<!---
 
 Homie
 https://git.io/homieiot
@@ -68,21 +76,13 @@ homie for esp8266
 http://marvinroger.github.io/homie-esp8266/
 http://marvinroger.github.io/homie-esp8266/stable/
 
-
-
 esp8266 file system
 http://esp8266.github.io/Arduino/versions/2.3.0/doc/filesystem.html#uploading-files-to-file-system
 http://docs.platformio.org/en/latest/platforms/espressif8266.html#uploading-files-to-file-system-spiffs
 
-
----
-
 # Wemos
-
 motor https://github.com/wemos/WEMOS_Motor_Shield_Arduino_Library
-
----
 
 # Services
 
-http://readme.io/
+-->
