@@ -22,90 +22,86 @@ and browse on over to the Elastic Cloud Compute service
 
 <img src="images/image-000.png" width="600">
 
-.footnote[Creating an Ubuntu instance]
 
 ---
 
 open up the running instances page
-![](images/image-001.png)
 
-.right[Creating an Ubuntu instance]
+<img src="images/image-001.png" width="600">
+
 
 
 ---
 
 Hit Launch instance
-![](images/image-002.png)
 
-.right[Creating an Ubuntu instance]
+<img src="images/image-002.png" width="600">
+
 
 ---
 
 Select the Ubuntu Server
 (Ubuntu Server 16.04 LTS (HVM), SSD Volume Type - ami-835b4efa as of writing)
-![](images/image-003.png)
 
-.right[Creating an Ubuntu instance]
+
+<img src="images/image-003.png" width="600">
+
 
 ---
 
 Choose the t2.micro (its the only free one) and hit review and launch
-![](images/image-004.png)
 
-.right[Creating an Ubuntu instance]
+
+<img src="images/image-004.png" width="600">
+
 
 ---
 
 Choose Edit security groups
-![](images/image-005.png)
 
-.right[Creating an Ubuntu instance]
+
+<img src="images/image-005.png" width="600">
+
 
 ---
 
 Set it up like so
-![](images/image-006.png)
 
-.right[Creating an Ubuntu instance]
+
+<img src="images/image-006.png" width="600">
+
 
 ---
 
 
 ![](images/image-0.png)
 
-.right[Creating an Ubuntu instance]
 
 ---
 
 
 ![](images/image-0.png)
 
-.right[Creating an Ubuntu instance]
 
 ---
 
 
 ![](images/image-0.png)
 
-.right[Creating an Ubuntu instance]
 
 ---
 
 
 ![](images/image-0.png)
 
-.right[Creating an Ubuntu instance]
 
 ---
 
 
 ![](images/image-0.png)
 
-.right[Creating an Ubuntu instance]
 
 ---
 
 
 ![](images/image-0.png)
-
-.right[Creating an Ubuntu instance]
