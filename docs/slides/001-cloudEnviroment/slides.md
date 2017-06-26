@@ -22,7 +22,7 @@ and browse on over to the Elastic Cloud Compute service
 
 <img src="images/image-000.png" width="600">
 
-.bottom.right[Creating an Ubuntu instance]
+.footnote[Creating an Ubuntu instance]
 
 ---
 
