@@ -1,4 +1,4 @@
-# Contents
+## Contents
 
 + [Setting up a cloud environment](#setting-up-a-cloud-environment).
 + [Setting things up locally](#setting-things-up-locally).
@@ -10,7 +10,7 @@
 + [Integrating with NodeJS](#integrating-with-nodejs).
 + [Integrating with NodeJS](#some-stuff-for-later).
 
-# [](#setting-up-a-cloud-environment)Setting up a cloud environment
+## [](#setting-up-a-cloud-environment)Setting up a cloud environment [(slides)](docs\slides\001-cloudEnviroment\index.html)
 + Basic setup
   + Creating an Ubuntu instance
   + Setting up port permissions
@@ -21,15 +21,15 @@
   + Simple setup
   + Securing it (vital)
 
-# [](#setting-things-up-locally)Setting things up locally
+## [](#setting-things-up-locally)Setting things up locally
 + Setting up a broker locally
   + Mosquitto on windows
   + Mosquitto on good operating systems
 + Setting up node-red locally
 
-# [](#setting-it-up-on-a-pi)Setting it up on a pi
+## [](#setting-it-up-on-a-pi)Setting it up on a pi
 
-# [](#the-wemos-d1-mini-and-the-arduino-ide)The Wemos D1 Mini and the Arduino IDE
+## [](#the-wemos-d1-mini-and-the-arduino-ide)The Wemos D1 Mini and the Arduino IDE
 + Setup
   + Adding the board to the board manager
   + Settings
@@ -46,19 +46,19 @@
 
 + MQTT on the esp8266
 
-# [](#tying-it-together)Tying it together
+## [](#tying-it-together)Tying it together
 + Simple UIs in node-red
 + node-red to the esp8266
 + and back
 + building some logic
 
-#[](#integrating-with-vvvv) Integrating with vvvv
+## [](#integrating-with-vvvv) Integrating with vvvv
 + MQTT in vvvv
 
-# [](#some-stuff-for-nodejs)Integrating with NodeJS
+## [](#some-stuff-for-nodejs)Integrating with NodeJS
 +  
 
-# [](#some-stuff-for-later)Some stuff for later
+## [](#some-stuff-for-later)Some stuff for later
 + Atom & PlatformIO
 + Homie
 
