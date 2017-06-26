@@ -18,9 +18,10 @@ class: middle, center
 
 Log in to AWS Management console [here](https://console.aws.amazon.com/console/home)
 and browse on over to the Elastic Cloud Compute service
-![](images/image-000.png)
 
-.right[Creating an Ubuntu instance]
+<img src="images/image-000.png" width="600">
+
+.bottom.right[Creating an Ubuntu instance]
 
 ---
 
