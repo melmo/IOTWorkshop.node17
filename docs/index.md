@@ -1,15 +1,16 @@
 # Contents
 
-+ [Setting up a cloud environment](#001).
-+ [Setting things up locally](#002).
-+ [Setting it up on a pi](#003).
-+ [The Wemos D1 Mini and the Arduino IDE](#004).
-+ [Tying it together](#005).
-+ [Integrating with vvvv](#00).
-+ [Integrating with NodeJS](#00).
-+ [](#00).
++ [Setting up a cloud environment](#setting-up-a-cloud-environment).
++ [Setting things up locally](#setting-things-up-locally).
++ [Setting it up on a pi](#setting-it-up-on-a-pi).
++ [The Wemos D1 Mini and the Arduino IDE](#the-wemos-d1-mini-and-the-arduino-ide).
++ [Tying it together](#tying-it-together).
++ [Integrating with vvvv](#integrating-with-vvvv).
++ [Integrating with vvvv](#integrating-with-nodejs).
++ [Integrating with NodeJS](#integrating-with-nodejs).
++ [Integrating with NodeJS](#some-stuff-for-later).
 
-# [](#001)Setting up a cloud environment
+# [](#setting-up-a-cloud-environment)Setting up a cloud environment
 + Basic setup
   + Creating an Ubuntu instance
   + Setting up port permissions
@@ -20,15 +21,15 @@
   + Simple setup
   + Securing it (vital)
 
-# [](#002)Setting things up locally
+# [](#setting-things-up-locally)Setting things up locally
 + Setting up a broker locally
   + Mosquitto on windows
   + Mosquitto on good operating systems
 + Setting up node-red locally
 
-# [](#003)Setting it up on a pi
+# [](#setting-it-up-on-a-pi)Setting it up on a pi
 
-# [](#004)The Wemos D1 Mini and the Arduino IDE
+# [](#the-wemos-d1-mini-and-the-arduino-ide)The Wemos D1 Mini and the Arduino IDE
 + Setup
   + Adding the board to the board manager
   + Settings
@@ -45,19 +46,19 @@
 
 + MQTT on the esp8266
 
-# [](#005)Tying it together
+# [](#tying-it-together)Tying it together
 + Simple UIs in node-red
 + node-red to the esp8266
 + and back
 + building some logic
 
-#[](#006) Integrating with vvvv
+#[](#integrating-with-vvvv) Integrating with vvvv
 + MQTT in vvvv
 
-# [](#007)Integrating with NodeJS
+# [](#some-stuff-for-nodejs)Integrating with NodeJS
 +  
 
-# Some stuff for later
+# [](#some-stuff-for-later)Some stuff for later
 + Atom & PlatformIO
 + Homie
 
