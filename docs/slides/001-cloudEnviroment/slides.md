@@ -18,6 +18,7 @@ class: middle, center
 
 Log in to AWS Management console [here](https://console.aws.amazon.com/console/home)
 and browse on over to the Elastic Cloud Compute service
+-
 
 <img src="images/image-000.png" width="600">
 
