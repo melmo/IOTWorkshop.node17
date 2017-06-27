@@ -12,7 +12,7 @@
 ---
 class: middle, center
 
-# [](#creating-an-ubuntu-instance) Creating an Ubuntu instance
+# [](#creating-an-ubuntu-instance)Creating an Ubuntu instance
 
 ---
 
@@ -174,7 +174,7 @@ class: middle, center
 
 class: middle, center
 
-# [](#installing-an-mqtt-broker--mosquitto) Installing an MQTT Broker : Mosquitto
+# [](#installing-an-mqtt-broker--mosquitto)Installing an MQTT Broker : Mosquitto
 
 ---
 
@@ -220,7 +220,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-m
 ---
 class: middle, center
 
-# [](#setting-up-node-red) Setting up Node-Red
+# [](#setting-up-node-red)Setting up Node-Red
 
 ---
 
