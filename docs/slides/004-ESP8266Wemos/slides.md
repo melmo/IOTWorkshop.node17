@@ -137,3 +137,32 @@ class: middle, center
 
 
 <img src="images/pinout.jpg" width="600">
+
+---
+
+## [](#oled)OLED
+
+---
+
++ The Adafruit library for the SDD1306 driver doesnt support our display size, but someone already edited it for us :)
++ download the repo [here](https://github.com/mcauser/Adafruit_SSD1306) as a zip
+
+<img src="images/image-012.png" width="500">
+
+---
+
++ Add it to the IDE like so
+
+<img src="images/image-013.png" width="500">
+
+---
+
++ You should now see the library under the (questionable) recomended libraries list.
+
+<img src="images/image-014.png" width="500">
+
+---
+
++ Now under the examples we should see our LCD size as well
+
+<img src="images/image-015.png" width="500">
