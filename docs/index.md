@@ -6,9 +6,8 @@
 + [The Wemos D1 Mini and the Arduino IDE](#the-wemos-d1-mini-and-the-arduino-ide).
 + [Tying it together](#tying-it-together).
 + [Integrating with vvvv](#integrating-with-vvvv).
-+ [Integrating with vvvv](#integrating-with-nodejs).
 + [Integrating with NodeJS](#integrating-with-nodejs).
-+ [Integrating with NodeJS](#some-stuff-for-later).
++ [Some stuff for later](#some-stuff-for-later).
 
 ## [](#setting-up-a-cloud-environment)Setting up a cloud environment [(slides)](slides/001-cloudEnviroment/index.html)
 + Basic setup

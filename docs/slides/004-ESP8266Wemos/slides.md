@@ -56,9 +56,11 @@ class: middle, center
 
 + While thats installing, lets go get the [USB Serial Bridge Drivers](https://wiki.wemos.cc/_media/file:ch341ser_win.zip)
 
-.center[### GIANT WARNING]
-.center[### Do Not use the Mac driver on macOS Sierra]
-.center[### Its unsigned and will cause kernel panic]
+
+
+<b> Do Not use the Mac driver on macOS Sierra </b>
+
+<b>  Its unsigned and will cause kernel panic </b>
 
 + On mac, use [these](https://blog.sengotta.net/signed-mac-os-driver-for-winchiphead-ch340-serial-bridge/) drivers instead
 
