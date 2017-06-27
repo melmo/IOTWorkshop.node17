@@ -5,14 +5,14 @@
   + getting a static IP
   + sshing in
 + [Adding Mosquitto](#23)
-+ [Adding node-red](#29)
++ [Adding Node-Red](#29)
   + Simple setup
   + Securing it (vital)
 
 ---
 class: middle, center
 
-# [](#2) Creating an Ubuntu instance
+# [2](#2) Creating an Ubuntu instance
 
 ---
 
@@ -174,7 +174,7 @@ class: middle, center
 
 class: middle, center
 
-# [](#23) Installing an MQTT Broker : Mosquitto
+# [23](#23) Installing an MQTT Broker : Mosquitto
 
 ---
 
@@ -220,7 +220,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-m
 ---
 class: middle, center
 
-# [](#29) Setting up Node-Red
+# [29](#29) Setting up Node-Red
 
 ---
 
