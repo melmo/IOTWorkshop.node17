@@ -217,6 +217,51 @@ Read up here on how to secure it better later
 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-16-04
 
-<img src="images/image-021.png" width="600">
+---
+class: middle, center
+
+# Setting up Node-Red
 
 ---
+
+In your Ubuntu instance lets enter :
+
+```text
+curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
+sudo apt-get install -y nodejs build-essential
+sudo npm install -g node-red
+```
+
+---
+
+OK, then we could get it to autostart as a service but lets use a magical servis called pm2 :
+
+```text
+sudo npm install -g pm2
+pm2 start `which node-red` -- -v
+pm2 save
+pm2 startup
+```
+
+bonus points for connecting pm2 to [keymetrics](https://keymetrics.io/pm2/)
+
+---
+
+If that takes forever, you can always install it locally
+
+download it [here](http://nodered.org/docs/getting-started/installation.html)
+
+---
+
+OK, so now you should be able to connect with your IP on port 1880
+
+
+<img src="images/image-023.png" width="600">
+
+---
+
+This is by far not secure, as its just open to the net.
+
+Go check out how to secure it here :
+
+https://nodered.org/docs/security
