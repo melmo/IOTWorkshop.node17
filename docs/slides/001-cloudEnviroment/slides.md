@@ -1,18 +1,18 @@
 # Setting up a cloud environment
-+ Creating an Ubuntu instance
++ [Creating an Ubuntu instance](#2)
   + Basic setup
   + Setting up port permissions
   + getting a static IP
   + sshing in
-+ Adding Mosquitto
-+ Adding node-red
++ [Adding Mosquitto](#23)
++ [Adding node-red](#29)
   + Simple setup
   + Securing it (vital)
 
 ---
 class: middle, center
 
-# Creating an Ubuntu instance
+# [](#2) Creating an Ubuntu instance
 
 ---
 
@@ -174,7 +174,7 @@ class: middle, center
 
 class: middle, center
 
-# Installing an MQTT Broker : Mosquitto
+# [](#23) Installing an MQTT Broker : Mosquitto
 
 ---
 
@@ -220,7 +220,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-m
 ---
 class: middle, center
 
-# Setting up Node-Red
+# [](#29) Setting up Node-Red
 
 ---
 
