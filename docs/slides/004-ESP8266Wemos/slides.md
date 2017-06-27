@@ -4,6 +4,7 @@
   + Adding the board to the board manager
   + Settings
   + Pushing your first sketch - Blinking the LED
++ [MQTT on the ESP8266](#mqtt-on-the-esp8266)
 + Using the ESP with other things
   + [Pinout](#pinout)
   + [Button Shield](#button-shield)
@@ -56,8 +57,6 @@ class: middle, center
 
 + While thats installing, lets go get the [USB Serial Bridge Drivers](https://wiki.wemos.cc/_media/file:ch341ser_win.zip)
 
-
-
 <b> Do Not use the Mac driver on macOS Sierra </b>
 
 <b>  Its unsigned and will cause kernel panic </b>
@@ -89,6 +88,44 @@ class: middle, center
 + during the upload process the blue LED should flash rapidly
 
 <img src="images/image-006.png" width="500">
+
+---
+
+# [](#mqtt-on-the-esp8266)MQTT on the ESP8266
+
+---
+
++ In the Arduino IDE go Sketch, libraries and choose Manage libraries
+
+
+<img src="images/image-007.png" width="500">
+
+---
+
++ The one we are looking for is called PubSubClient
+
+<img src="images/image-008.png" width="500">
+
+---
+
++ Lets load the built in example for the esp8266
+
+<img src="images/image-009.png" width="500">
+
+---
+
++ Change the wifi credentials and put in your MQTT Brokers IP (the elastic ip of your EC2 instance)
++ And open the serial monitor
+
+<img src="images/image-010.png" width="500">
+
+---
+
++ Lets reconnect to our instance and see if the message is coming through
+
+<img src="images/image-011.png" width="500">
+
++ and that boys and girls is piped over the internets!
 
 ---
 
