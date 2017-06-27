@@ -29,7 +29,7 @@
 
 ## [](#setting-it-up-on-a-pi)Setting it up on a pi
 
-## [](#the-wemos-d1-mini-and-the-arduino-ide)The Wemos D1 Mini and the Arduino IDE
+## [](#the-wemos-d1-mini-and-the-arduino-ide)The Wemos D1 Mini and the Arduino IDE  [(slides)](slides/004-ESP8266Wemos/index.html)
 + Setup
   + Adding the board to the board manager
   + Settings
